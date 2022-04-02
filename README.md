@@ -1,33 +1,6 @@
-# Codecademy Piano Keys Project
+CREACIÓN DE SITIOS WEB INTERACTIVOS
 
-## Table of contents
-* [Project Goals](#project-goals)
-* [Built with](#built-with)
-* [How to use](#how-to-use)
-* [Challenges and Credits](#challenges-and-credits)
+Teclas del piano
 
-## Project Goals
-You’re a web developer who has been hired by a music education company. This client wants you to create an interactive game to help their beginner-level piano students study. Create a piano player with DOM events in JavaScript!
-
-## Built with
-* HTML
-* CSS
-* JavaScript
-* Git, GitHub and GitHub Pages
-
-## How to use
-1. Clone the repository and change directory.
-
-```
-git clone https://github.com/RahimGuerfi/piano-keys.git
-```
-
-2. Open "piano-keys/index.html" file.
-
-## Challenges and Credits
-This was a practice project from the full stack program at Codeacademy.
-<br>
-**HTML and CSS were given to me, I did the JavaScript work.**
-<br>
-**Bonus: I added notes sounds by myself.**
-
+Eres un desarrollador web que ha sido contratado por una empresa de educación musical. Este cliente quiere que crees un juego interactivo para ayudar a sus estudiantes de piano de nivel principiante a estudiar. ¡Crea un pianista con eventos DOM en JavaScript!
+![image](https://user-images.githubusercontent.com/99897595/161401397-c4dd5b7e-2c92-4527-9649-409155eebd8c.png)
